@@ -1,7 +1,9 @@
 # Data-Visualization-Agent-using-LLMs
 
 project/
+
 │
+
 ├── main.py                     # Main script to run the application
 
 ├── data_loader.py              # Contains the `load_data` function
