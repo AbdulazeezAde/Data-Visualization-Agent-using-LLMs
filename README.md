@@ -14,7 +14,7 @@ This project is an Autonomous Data Exploration Agent that:
 3. Generate Questions: Uses OpenAI's GPT-3.5 to generate meaningful exploratory questions based on the dataset.
 4. Modular Design:Functions are broken into reusable modules, making it easy to extend or integrate into other projects.
 
-** PROJECT STRUCTURE**
+**PROJECT STRUCTURE**
 
 project/
 
