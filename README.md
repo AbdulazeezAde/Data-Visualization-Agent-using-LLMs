@@ -38,21 +38,23 @@ Python 3.8 or higher
 OpenAI API key (to use GPT-3.5)
 
 **Installation**
-
+```bash
 git clone https://github.com/AbdulazeezAde/Data-Visualization-Agent-using-LLMs.git
+```
 
+```
 cd Data-Visualization-Agent-using-LLMs
-
+```
 **Install Dependencies**
-
+```
 pip install -r requirements.txt
-
+```
 
 Set up your OpenAI API key: Add your API key as an environment variable.
-
+```
 export OPENAI_API_KEY=your_openai_api_key
-
+```
+```
 os.environ["OPENAI_API_KEY"] = "your_openai_api_key"
-
-
+```
 
